@@ -39,7 +39,6 @@ nav ul {
 nav li {
   display: inline;
   list-style-type:none;
-  
  }
  
 nav a {
@@ -137,12 +136,12 @@ nav a:active {
     border-bottom: 1px solid #ffffff;
     margin: 0;
     padding: 5px;
-     }
+    }
      
     nav a:hover {}
     nav a:visited {}
     nav a:active {}
-}
+    }
 
 /* HEADER section*/
 header {
